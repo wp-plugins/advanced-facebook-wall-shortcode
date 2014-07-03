@@ -95,7 +95,7 @@ True - Yes / False - No
 
 == Screenshots ==
 
-1. SCREENSHOT
+1. Screenshot of Shortcode Plugin
 
 == Changelog ==
 
