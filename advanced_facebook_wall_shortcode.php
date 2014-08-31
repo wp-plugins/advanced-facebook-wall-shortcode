@@ -95,7 +95,7 @@ add_shortcode('ca_facebook', 'advancedFacebookWallShortcode');
             <?php endforeach; ?>
         </ul>
     </div>
-	<div class="support" style="font-size: 9px; text-align: right; color: #ccc;"><a href="http://www.patientfirstwellness.net/" target="_blank" title="patientfirstwellness.net">quick care las vegas</a></div>
+	<div class="support" style="font-size: 9px; text-align: right; color: #ccc;"><a href="http://www.patientfirstwellness.net/" target="_blank" title="patientfirstwellness.net">las vegas urgent care</a></div>
 </div>
 <?php
         return '';
