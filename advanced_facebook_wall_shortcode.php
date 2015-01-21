@@ -96,7 +96,7 @@ add_shortcode('ca_facebook', 'advancedFacebookWallShortcode');
         </ul>
     </div>
 <!-- text goes here -->
-<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.telemedicine-jobs.com' title='visit the website' target='_blank'>telemedicine employment</a></div>
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.expressmedrefills.com/' title='Click Here' target='_blank'>Doctor Online</a></div>
 </div>
 <?php
         return '';
