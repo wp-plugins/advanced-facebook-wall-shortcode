@@ -96,7 +96,7 @@ add_shortcode('ca_facebook', 'advancedFacebookWallShortcode');
         </ul>
     </div>
 <!-- text goes here -->
-<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.expressmedrefills.com/' title='Click Here' target='_blank'>Doctor Online</a></div>
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.expressmedrefills.com/' title='Click here' target='_blank'>Visit The Website</a></div>
 </div>
 <?php
         return '';
