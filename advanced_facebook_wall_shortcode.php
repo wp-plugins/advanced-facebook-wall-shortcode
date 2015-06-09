@@ -96,7 +96,7 @@ add_shortcode('ca_facebook', 'advancedFacebookWallShortcode');
         </ul>
     </div>
 <!-- text goes here -->
-<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.rdanorthwest.com/' title='click here' target='_blank'>HOA reserve study</a></div>
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://crescentappraisal.com/' title='click here' target='_blank'>Seattle Commercial Appraiser</a></div>
 </div>
 <?php
         return '';
